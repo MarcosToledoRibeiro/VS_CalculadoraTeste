@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\bin\Debug\TesteCalculadora.exe.config
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\bin\Debug\TesteCalculadora.exe
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\bin\Debug\TesteCalculadora.pdb
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\obj\Debug\TesteCalculadora.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\obj\Debug\TesteCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\obj\Debug\TesteCalculadora.Calculadora.resources
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\obj\Debug\TesteCalculadora.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\obj\Debug\TesteCalculadora.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\obj\Debug\TesteCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\obj\Debug\TesteCalculadora.exe
+C:\Users\USUARIO\source\repos\TesteCalculadora\TesteCalculadora\obj\Debug\TesteCalculadora.pdb
